@@ -1,1 +1,1 @@
-## Processo de Liberação dos domínios congelados pelo Registro.br
+## Processo de Liberação: Domínios congelados pelo Registro.br
