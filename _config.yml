@@ -1,0 +1,16 @@
+title:
+  "ProcLib"
+description:
+  "Site extraoficial sobre o <strong>Processo de Liberação</strong> de domínios no Brasil"
+github:
+  "ProcLib"
+
+permalink:
+  pretty
+
+theme:
+  jekyll-theme-cayman
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
