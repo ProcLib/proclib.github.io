@@ -1,3 +1,6 @@
+---
+title: ProcLib - Processo de Liberação de domínios no Brasil
+---
 ## Processo de Liberação: Domínios congelados pelo Registro.br
 
 | ANO  | LISTA         | INÍCIO     | TÉRMINO    | #1 | #2 | #3 | #4 | #5 | #6 | 
